@@ -973,6 +973,7 @@ h1, h2, h3, h4, h5, h6 {
   float: left;
   width: 100%;
   position: relative;
+  /*margin-bottom: 100px;*/
 }
 @media screen and (max-width: 992px) {
   .fh5co-person {
@@ -986,7 +987,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 50%;
   margin-left: -60px;
   display: block;
-  margin-bottom: 50px;
+  margin-bottom: 500px;
 }
 .fh5co-person figure img {
   width: 120px;
